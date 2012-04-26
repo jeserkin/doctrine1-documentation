@@ -55,7 +55,7 @@ the web, this is the case for most web applications.
 For more detailed information on the Nested Set, read here:
 
 -  `http://www.sitepoint.com/article/hierarchical-data-database/2 <http://www.sitepoint.com/article/hierarchical-data-database/2>`_
--  `http://dev.mysql.com/tech-resources/articles/hierarchical-data.html <http://dev.mysql.com/tech-resources/articles/hierarchical-data.html>`_
+-  `http://ftp.nchu.edu.tw/MySQL/tech-resources/articles/hierarchical-data.html <http://ftp.nchu.edu.tw/MySQL/tech-resources/articles/hierarchical-data.html>`_
 
 ----------
 Setting Up
